@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code for [Project Name], which is a [brief description of the project]. 
+This repository contains the code for Toy Problems, in which the project takes inputs calsculates net salary, speed and calculates srudent grades. 
 
 ## Table of Contents
 
