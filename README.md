@@ -16,7 +16,7 @@ This repository contains the code for Toy Problems, in which the project takes i
 To get started with this project, follow these steps:
 
 1. Clone the repository
-2. npm install
+2. run node command on the .js files
 
 ## Usage
 Each toy problem is contained in its own file within the respective programming language folder. To solve a problem or explore its solution, follow these steps:
